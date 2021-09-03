@@ -1,0 +1,92 @@
+/* *{
+    border:1px solid red;
+} */
+
+body{
+    background-color: rgb(244, 220, 190);
+    font-size: 24px;
+    text-align: center;
+    padding: 30px 100px 100px;
+    color: #222;
+    border: 3px solid tomato;
+    margin: 40px;
+}
+
+h1{
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    color: tomato;
+}
+
+img{
+    border: 5px dotted white;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    max-height:500px
+}
+
+h1, h2, h3, h4, h5, h6{
+    font-family: Poppins, sans-serif;
+    margin-bottom: 15px;
+    margin-top:0px
+}
+
+a{
+    text-decoration: none;
+    color: #3a38aa;
+}
+
+a:hover{
+    text-decoration: underline;
+    color: #3a38aa;
+}
+
+blockquote{
+    font-style: italic;
+    background-color: white;
+    text-align: center;
+    padding: 40px;
+    font-size: 64px;
+    box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.1);
+    margin: 0px 0px 30px;
+}
+
+ul{
+   text-align: left;
+}
+
+p{
+    margin-bottom: 30px;
+}
+
+.container-white{
+    background-color: white;
+    padding: 30px 30px 40px;
+    margin-bottom: 30px;
+}
+
+.mammal{
+    color: tomato;
+    font-weight: bold;
+    padding: 0px 30px
+}
+.bird{
+    color: rgb(72, 72, 203);
+    font-style: italic;
+    margin-top: 30px;
+    padding-bottom: 40px;
+}
+
+.fish{
+    color: orange;
+    text-decoration: underline;
+    padding: 30px;
+    margin-top: 40px
+}
+
+.background-lime
+{
+    background-color: lime;
+    padding: 20px 20px 20px 40px;
+}
